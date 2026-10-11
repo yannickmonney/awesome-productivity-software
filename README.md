@@ -43,3 +43,4 @@ and project planning software;
 * [**Taskade**](https://taskade.com/) [Multi-platform / *Freemium*] - Chat, write, get things done. The unified workspace for distributed teams. ([Repo](https://github.com/taskade/taskade))
 * [**Notyfy**](https://notyfy.co/) [Multi-platform / *Free*] - All your web notifications in one place.
 * [**WebCull**](https://webcull.com/) [Web / Extensions / *Freemium*] - Your web resources securely organized in one place.
+* [**Tale**](https://tale.dev) [Web / *Open-source*] - Open-source project workspace for teams and AI agents to share project tasks, context, files, and reviewed deliverables.
